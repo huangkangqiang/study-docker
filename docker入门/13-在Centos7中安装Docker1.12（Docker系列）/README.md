@@ -1,1 +1,1 @@
-# [在Centos7中安装Docker1.12（Docker系列）](http://blog.csdn.net/zsl129/article/details/53915138)
+# [在Centos7中安装Docker1.12](http://blog.csdn.net/zsl129/article/details/53915138)
